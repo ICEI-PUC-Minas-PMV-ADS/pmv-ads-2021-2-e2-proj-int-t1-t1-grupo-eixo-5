@@ -1,3 +1,3 @@
 # Apresentação da Solução
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+O processo de desenvolvimento foi ágil, sendo concluído em 4 dias e documentação funcional finalizada em 7 dias.

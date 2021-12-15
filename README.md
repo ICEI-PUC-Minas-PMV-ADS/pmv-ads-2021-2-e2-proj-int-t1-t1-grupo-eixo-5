@@ -1,27 +1,46 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma aplicação interativa`
 
-`SEMESTRE`
+`2021/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste trabalho é a criação de um sistema completo de gerenciamento para uma clínica médica.
+
+- Como objetivos específicos, podemos ressaltar:
+- Fornecer funcionalidades que permitam cadastrar funcionários, médicos e pacientes.
+- Ter controle absoluto de todos os registros em um banco de dados interno e escalável.
+- Permitir a criação de um receituário de maneira fácil.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Luis Henrique Farina
+* Luis Henrique Farina
+* Luis Henrique Farina
+* Luis Henrique Farina
 
 ## Orientador
 
-* Nome completo do professor 1
+* Simone Nogueira
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para executar o sistema é necessário:
+
+* Visual Studio (2019/2022)
+* Sistema Operacional Windows
+* Clonar o repositório direto da IDE ou baixar a pasta do projeto pelo Github
+
+Instruções:
+
+* Abrir a solução na IDE
+* Compilar a solução
+* Definir ClinaMS como projeto de inicialização
+* Executar o projeto
+
+
 
 # Documentação
 
